@@ -4,3 +4,5 @@
 #### Header numero 4
 ##### Header numero 5
 ###### Header numero 6
+
+![Imagen de prueba](https://octodex.github.com/images/yaktocat.png)
